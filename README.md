@@ -31,7 +31,10 @@ The technologies used for this project were Python, Visual Studio Code, and wxGl
 TEAM MEMBERS
 Lesra Alexander Piñeiro Bahena – Product Owner (PO)
 Angelica Palma Baltazar – Scrum Master (SM)
-Alejandro Olaf Onofre Hernandez
+Alejandro Olaf Onofre Hernandez - Tester
+Angel Manuel León Perez - Designer
+Ashly reyes nava - Designer
+Ivan Alejandro Sanchez Delgado - Programmer
 
 INSTRUCTIONS TO RUN THE PROJECT
 For the correct functioning and execution of the project, it is necessary to download the folder that contains the code and image files.
