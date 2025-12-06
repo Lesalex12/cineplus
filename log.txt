@@ -1,0 +1,4 @@
+07:30:23: can't open file 'D:\cineplus\logo.png' (error 21: El dispositivo no está listo.)
+07:30:23: Failed to load image from file "D:\cineplus\logo.png".
+07:30:23: can't open file 'D:\cineplus\logo.png' (error 21: El dispositivo no está listo.)
+07:30:23: Failed to load image from file "D:\cineplus\logo.png".
